@@ -1,6 +1,6 @@
 # BlogTap
 
-Welcome to the Blog App, a simple blogging platform built with Appwrite and React. This project is currently in its initial phase and serves as a starting point for developing a full-fledged demo blogging application.
+Welcome to the Blog Tap, an advance blogging platform built with Appwrite and React. This project is in its initial phase and serves as a foundation for developing a comprehensive and feature-rich blogging application.
 
 ## Features
 - User registration and authentication.
@@ -20,4 +20,4 @@ And much more!
 - React-router-dom: For Seemless routing experience.
 
 ## See live demo
-https://blog-app-five-lemon.vercel.app/
+https://blog-app-plum-xi.vercel.app/
