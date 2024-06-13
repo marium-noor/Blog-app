@@ -1,8 +1,23 @@
-# React + Vite
+# BlogTap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Blog App, a simple blogging platform built with Appwrite and React. This project is currently in its initial phase and serves as a starting point for developing a full-fledged demo blogging application.
 
-Currently, two official plugins are available:
+## Features
+- User registration and authentication.
+- Logout Functionality
+- Saves Real time Data in BaaS.
+- Create, edit, and delete blog posts.
+- Add Content in Local Storage.
+- User-friendly UI and responsive design.
+And much more!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies installed
+- Redux and Redux Toolkit: For advance state management.
+- Tinymce/tinymce-react: Text Editor to add Content For Post.
+- Appwrite: Used Appwrite as a BAAS.
+- Html-react-parser: This library is used to safely convert HTML strings in the `post.content` to React components for rendering.
+- React-hook-form: Helps to manage complex forms like Login and Signup.
+- React-router-dom: For Seemless routing experience.
+
+## See live demo
+https://blog-app-five-lemon.vercel.app/
