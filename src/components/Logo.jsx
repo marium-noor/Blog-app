@@ -1,8 +1,11 @@
 import React from 'react'
+import blog from '../assets/blog.svg'
 
-function Logo({width = '100px'}) {
+function Logo({width = '100px', height = '100px'}) {
   return (
-    <div>Logo</div>
+    <div>
+      <img src={blog} style={{ width, height }} alt="Logo" />
+      </div>
   )
 }
 
